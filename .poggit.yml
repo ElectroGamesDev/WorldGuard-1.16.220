@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/ElectroGamesYT/WorldGuard-1.16.220
+build-by-default: true
+branches:
+- main
+projects:
+  WorldGuard-1.16.220:
+    path: ""
+...
